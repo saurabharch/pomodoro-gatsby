@@ -8283,9 +8283,10 @@ typedarray@^0.0.6:
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
 
-typeface-quicksand@^0.0.43:
-  version "0.0.43"
-  resolved "https://registry.yarnpkg.com/typeface-quicksand/-/typeface-quicksand-0.0.43.tgz#076eb652f36b8c5889fe13551afe6730dcf0ab43"
+typeface-quicksand@^0.0.71:
+  version "0.0.71"
+  resolved "https://registry.yarnpkg.com/typeface-quicksand/-/typeface-quicksand-0.0.71.tgz#85157b7cc299b558dbeeea1a413217887685dd6b"
+  integrity sha512-MIVkJ+oQGx/YTjMn6rff+BVr/xDBctkgYCa85ch8vTpeqtoGF/ZoYHWOKJRBoeiYVsHGasVczb4NPe5gZQsjiQ==
 
 ua-parser-js@^0.7.9:
   version "0.7.17"
