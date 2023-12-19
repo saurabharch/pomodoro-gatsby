@@ -4,11 +4,11 @@
   "version": "2.0.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
-    "gatsby": "^1.9.99",
+    "gatsby": "^2.13.79",
     "gatsby-link": "^1.6.24",
     "gatsby-plugin-google-analytics": "^1.0.12",
     "gatsby-plugin-manifest": "^1.0.8",
-    "gatsby-plugin-offline": "^1.0.10",
+    "gatsby-plugin-offline": "^2.0.5",
     "gatsby-plugin-react-helmet": "^1.0.8",
     "typeface-quicksand": "^0.0.43"
   },
